@@ -35,6 +35,12 @@ behave features/task_1_api_get_candlestick.feature # Runs REST API tests only
 behave features/task_2_ws_book_subscription.feature # Runs Websocket API tests only
 ```
 
+### 5. Deactivate venv
+
+```bash
+deactivate
+```
+
 ---
 
 ## What This Test Suite Covers
