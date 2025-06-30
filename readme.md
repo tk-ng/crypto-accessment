@@ -114,7 +114,7 @@ The following types of tests are included in this suite:
   - Snapshot-and-update or delta responses.
 
 - **Update Frequency Validation**  
-  Verifies that messages are sent at the expected interval (default or user-defined). |
+  Verifies that messages are sent at the expected interval (default or user-defined).
 
 ---
 
